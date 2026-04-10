@@ -1,16 +1,20 @@
-## Hi there 👋
+# Fala aí! 👋
 
-<!--
-**Henrique-araujo23/Henrique-araujo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Claudio Henrique, um desenvolvedor Java em formação.
 
-Here are some ideas to get you started:
+Atualmente focado em aprender e construir projetos reais enquanto faço minha transição para a área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando Java, lógica de programação e fundamentos de backend, tentando evoluir um pouco todos os dias.
+
+Se eu começo algo, gosto de ir até o fim e entender como funciona.
+
+No momento estou trabalhando em alguns projeto. Então aguarde :)
+
+Curiosidades:
+
+- Tenho três cachorros e dois gatos 🐶🐱  
+- Não sou muito fã de café ☕  
+- Meu filme favorito é O Rei do Show 🎬  
+- Hobbies: filmes, animes, academia e construir coisas 💪  
+
+Se quiser se conectar comigo, me encontra no LinkedIn: https://www.linkedin.com/in/claudio-henrique-araujo-dos-santos-35925a359/
